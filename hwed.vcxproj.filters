@@ -18,5 +18,8 @@
     <ClCompile Include="helloworld.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="edfun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
